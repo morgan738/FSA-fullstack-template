@@ -9,4 +9,4 @@
 - build script
   - npm install && npm run build
 - start script
-  - npm server/index.js
+  - node server/index.js
